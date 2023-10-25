@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f0d550f-a586-45e0-a49a-845409734b87" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Clase 3/Clase 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase 3/src/ContadorDeLetras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoderDecoder/CoderDecoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/CoderDecoder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoderDecoder/src/CoderDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/src/CoderDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo/Tiempo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiempo/src/Tiempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/src/Tiempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/src/tiempo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-objetos/test-objetos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2WdlgWvQJbityJMlyIHoYGF43wN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/hernan/Downloads/plugins-intellij/rose-pine-intellij-0.0.8.jar",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Codificador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codificador" />
+      <module name="Clase N3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Codificador" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f0d550f-a586-45e0-a49a-845409734b87" name="Changes" comment="" />
+      <created>1697070453748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697070453748</updated>
+    </task>
+    <servers />
+  </component>
+</project>
