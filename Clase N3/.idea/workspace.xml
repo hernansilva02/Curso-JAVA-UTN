@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f0d550f-a586-45e0-a49a-845409734b87" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Clase 3/Clase 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 3/src/ContadorDeLetras.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoderDecoder/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoderDecoder/CoderDecoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/CoderDecoder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoderDecoder/src/CoderDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase 3/CoderDecoder/src/CoderDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tiempo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tiempo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tiempo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tiempo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tiempo/Tiempo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tiempo/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tiempo/src/Tiempo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/src/Tiempo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/src/tiempo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-objetos/test-objetos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +24,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/hernan/Downloads/plugins-intellij/rose-pine-intellij-0.0.8.jar",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/mnt/WDbk/Users/Hernan/Documents/Neoris-UTN/java-proyects/Clase5/Actividad/src/actividad/Actividad.java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
